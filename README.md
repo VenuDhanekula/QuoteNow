@@ -21,3 +21,10 @@
   
 <a href="https://linkedin.com/in/venu-dhanekula-706518a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venu-dhanekula-706518a7" height="30" width="40" /> Linkedin</a>
 </p>
+
+
+[linkedin-shield]: https://github.com/VenuDhanekula/LogoImages/blob/main/LinkedIn_Logo.svg
+[linkedin-url]: https://linkedin.com/in/venu-dhanekula-706518a7
+
+[Instagram-shield]: https://github.com/VenuDhanekula/LogoImages/blob/main/Instagram_Logo.svg
+[Instagram-url]: https://instagram.com/venu_abhi
