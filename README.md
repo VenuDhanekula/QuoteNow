@@ -20,12 +20,7 @@
       <img src="Media/appWorking.gif" >
 </a> 
 
-<a>
-<br>
-<br>
-</a>
 ### Built With
-
 Here is the list of the major components that are required to build the above project.
 You will be directed to the respective page for purchase/learning.
 * [Android Studio](https://developer.android.com/studio?gclid=EAIaIQobChMI8YnLx9exgQMVmx6DAx1hjwr_EAAYASAAEgJbMfD_BwE&gclsrc=aw.ds)
