@@ -14,7 +14,6 @@
 
 <br>
 <br>
-<br>
 ### App Preview
 <a >
       <img src="Media/appWorking.gif" >
