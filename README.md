@@ -9,14 +9,19 @@
 • Designed a real-time Android application with user authentication with a cloud database.
 <br>
 • Once the model is selected the data is retrieved from the database and stored the information in Google Workspace.
+<br>
 • Generate Invoice in PDF format
 
+<br>
+<br>
+<br>
 ### App Preview
 <a >
       <img src="Media/appWorking.gif" >
 </a> 
 
-
+<br>
+<br>
 ### Built With
 
 Here is the list of the major components that are required to build the above project.
