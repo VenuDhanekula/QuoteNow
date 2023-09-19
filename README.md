@@ -7,9 +7,11 @@
 # QuoteNow
 
 • Designed a real-time Android application with user authentication with a cloud database.
+<br>
 • Once the model is selected the data is retrieved from the database and stored the information in Google Workspace.
 • Generate Invoice in PDF format
 
+### App Preview
 <a >
       <img src="Media/appWorking.gif" >
 </a> 
