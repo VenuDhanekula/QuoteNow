@@ -11,16 +11,19 @@
 • Once the model is selected the data is retrieved from the database and stored the information in Google Workspace.
 <br>
 • Generate Invoice in PDF format
-
+<a>
 <br>
 <br>
+</a>
 ### App Preview
 <a >
       <img src="Media/appWorking.gif" >
 </a> 
 
+<a>
 <br>
 <br>
+</a>
 ### Built With
 
 Here is the list of the major components that are required to build the above project.
